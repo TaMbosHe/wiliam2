@@ -1,6 +1,6 @@
-owner=529406835094978570
-prefix=1
-game=
+owner=518620483764224001
+prefix=W
+game=Type Whelp
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTM5ODgzNjY2OTg2MjM3OTUy.DzI1Xg.rsXfd9r57Mo5Ubw6jVW6KM83czg
